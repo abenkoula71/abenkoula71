@@ -32,7 +32,7 @@ if you need to work with me contect me :
 
 
       
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="abenkoula71">
+
 
   
   
