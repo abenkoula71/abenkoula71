@@ -14,17 +14,7 @@ I create applications for both the web , Android and Disktop, most of them using
 if you need to work with me contect me :
   
 <a  href="https://www.upwork.com/workwith/abderrahmaneb4">UpWork</a>
-  
-  
-<div align="center">
-    <a href="https://ko-fi.com/abenkoula71">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="abenkoula71">
-    </a>
 
-</div>
-
-
-  
 
 <h4>🧰 Toolbox <h4>
 
@@ -39,7 +29,12 @@ if you need to work with me contect me :
 
 
       
+<div align="center">
+    <a href="https://ko-fi.com/abenkoula71">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="abenkoula71">
+    </a>
 
+</div>
 
   
   
