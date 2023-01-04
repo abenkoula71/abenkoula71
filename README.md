@@ -16,7 +16,7 @@ I create applications for both the web , Android and Disktop, most of them using
   
 
 
-    <a href="https://ko-fi.com/abenkoula71"><img src="https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" alt="yasserbdj96" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"><a>
+    <a href="https://ko-fi.com/abenkoula71"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="abenkoula71"><a>
 
 <h4>🧰 Toolbox <h4>
 
