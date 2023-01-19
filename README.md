@@ -42,6 +42,8 @@ if you need to work with me contect me :
     <a href="https://ko-fi.com/abenkoula71">
         <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="abenkoula71">
     </a>
+    
 
 </div>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=khalil227">
 
