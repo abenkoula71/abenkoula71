@@ -3,7 +3,6 @@
 Inspired software engineer in Flutter and Python technologies 👀. Professional experience with technologies included in the toolbox below.
 I create applications for both the web , Android and Disktop, most of them using Datr and python .., but I also develop myself from other sides!
 </h4>
-
 <hr></hr>
 
 if you need to work with me contect me :
