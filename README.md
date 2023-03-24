@@ -33,5 +33,7 @@ if you need to work with me contect me :
     </a>
     
 </div>
+  <!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
     <codersrank-skills-chart username="abenkoula71"></codersrank-skills-chart>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=abenkoula71">
