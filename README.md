@@ -21,6 +21,8 @@ if you need to work with me contect me :
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenkoula71&theme=radical&layout=compact)](https://github.com/abenkoula71/github-readme-stats)
+  
+  <codersrank-skills-chart username="abenkoula71"></codersrank-skills-chart>
 
 ![abdbenkoula71 GitHub stats](https://github-readme-stats.vercel.app/api?username=abenkoula71&show_icons=true&theme=radical)
 
