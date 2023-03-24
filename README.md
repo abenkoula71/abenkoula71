@@ -22,7 +22,7 @@ if you need to work with me contect me :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenkoula71&theme=radical&layout=compact)](https://github.com/abenkoula71/github-readme-stats)
   
-  <codersrank-skills-chart username="abenkoula71"></codersrank-skills-chart>
+
 
 ![abdbenkoula71 GitHub stats](https://github-readme-stats.vercel.app/api?username=abenkoula71&show_icons=true&theme=radical)
 
@@ -33,4 +33,5 @@ if you need to work with me contect me :
     </a>
     
 </div>
+    <codersrank-skills-chart username="abenkoula71"></codersrank-skills-chart>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=abenkoula71">
