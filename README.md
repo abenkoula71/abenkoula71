@@ -38,5 +38,5 @@ if you need to work with me contect me :
   
   <!-- replace x.x.x with actual version -->
 
-<img src="[https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23f02;--item-border-radius:10px](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px)"
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px"
 />
