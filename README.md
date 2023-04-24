@@ -38,5 +38,9 @@ if you need to work with me contect me :
   
   <!-- replace x.x.x with actual version -->
 
+  <img
+  src="[https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abenkoula71&width=820)"
+/>
+  
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px" width=400px
 />
