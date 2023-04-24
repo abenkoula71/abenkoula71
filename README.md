@@ -38,5 +38,4 @@ if you need to work with me contect me :
   
   <!-- replace x.x.x with actual version -->
 
-  
-  <codersrank-work-experience username="abenkoula71"></codersrank-work-experience>
+<codersrank-work-experience username="abenkoula71" logos></codersrank-work-experience>
