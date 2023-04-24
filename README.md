@@ -11,9 +11,13 @@ if you need to work with me contect me :
   <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="php Logo" height="50" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python Logo" with="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="my sql Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php Logo" with="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php Logo" with="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery Logo" with="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/>
