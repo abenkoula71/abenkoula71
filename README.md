@@ -37,6 +37,6 @@ if you need to work with me contect me :
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=abenkoula71">
   
   <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/work-experience@abenkoula71/codersrank-work-experience.min.js"></script>
+
   
   <codersrank-work-experience username="abenkoula71"></codersrank-work-experience>
