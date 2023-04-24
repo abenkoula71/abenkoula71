@@ -38,4 +38,6 @@ if you need to work with me contect me :
   
   <!-- replace x.x.x with actual version -->
 
-<codersrank-work-experience username="abenkoula71 ." logos></codersrank-work-experience>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
+/>
