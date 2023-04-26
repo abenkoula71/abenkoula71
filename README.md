@@ -50,3 +50,8 @@ if you need to work with me contect me :
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=abenkoula71&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px" width=400px
 />
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abenkoula71&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
